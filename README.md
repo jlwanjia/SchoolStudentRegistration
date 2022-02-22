@@ -1,2 +1,2 @@
-# WindowsApp1
- VB.NET, school student registration
+# School Student Registration
+ VB.NET and MS Access
